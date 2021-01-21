@@ -9,7 +9,7 @@ Hello! I'm Deusovi - you may know me from various puzzle communities. I do puzzl
 
 # Contact me
 
-If you want to give feedback, ask for hints, or just talk about puzzles, here's whereyou can contact me:
+If you want to give feedback, ask for hints, or just talk about puzzles, here's where you can contact me:
 
  - email: deusovi@mail.com
  - Twitter: @deusovi
