@@ -8,4 +8,4 @@ Rules of Double Back:
 ![pentominous puzzle](/puzzleimages/doubleback.png)
 
 
-*(yes, this is kind of a silly puzzle)*
+*(Yes, this is kind of a silly puzzle.)*

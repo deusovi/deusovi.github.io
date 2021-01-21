@@ -1,6 +1,6 @@
 # Logic Puzzles
 
-I enjoy Nikoli-style logic puzzles -- visual logic puzzles meant to be solved by pure deduction, where no guessing is necessary. If you're new to these, Pavel Curtis' [advice](http://www.pavelspuzzles.com/aenigmas/advice.htm) (as "Ada Lovelace") is very helpful.
+I enjoy Nikoli-style logic puzzles -- visual logic puzzles meant to be solved by pure deduction, where no guessing is necessary. If you're new to these, Pavel Curtis (as "Ada Lovelace") has written some [advice](http://www.pavelspuzzles.com/aenigmas/advice.htm) that's very helpful.
 
 ## Series
 

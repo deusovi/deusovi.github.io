@@ -39,7 +39,7 @@ Rules of Statue View:
 ![raindrops](/puzzleimages/statueview-raindrops.png)
 
 
-**Statue View: 2, 3, 5, 7
+**Statue View: 2, 3, 5, 7**
 
 ![2357](/puzzleimages/statueview-2357.png)
 
