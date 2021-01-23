@@ -17,3 +17,5 @@ I enjoy Nikoli-style logic puzzles -- visual logic puzzles meant to be solved by
 [**Curve Data**](puzzlefiles/curvedata.md)
 
 [**Pentominous**](puzzlefiles/pentominous.md)
+
+[**Curfew**](puzzlefiles/curfew.md)
