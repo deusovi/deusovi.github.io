@@ -1,5 +1,12 @@
 # Word Puzzles
 
+## Cryptic Clues
+
+Some of my favorite cryptic clues (that weren't written for a particular puzzle) are [here](puzzlefiles/crypticclues.md).
+
+
+## Variety Cryptics
+
 I've made several cryptic crosswords in the past, inspired largely by the work of [Ucaoimhu](http://www.math.uchicago.edu/~wald/). These cryptics are generally not very easy - feel free to contact me for hints or feedback!
 
 A few of these puzzles have some inside references in them; a ★ has an explanation of the references (with spoilers!)
