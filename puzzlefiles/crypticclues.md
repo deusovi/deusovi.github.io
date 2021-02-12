@@ -24,8 +24,8 @@ Protruding part on Earth's surface! (5)
 
 Disguised scene target‼ (6, 5)
 
-"Sort of race" describes knight perhaps following east of hard pullers' second member (5½±½)
+"Sort of race" describes knight perhaps following east of hard pullers' second participant (5½±½)
 
-Bone near the ear canal's start, essentially to be taken in by (maybe) all humans (6±͓1)
+Bone near the ear canal's start, essentially to be taken in by (maybe) all humans (6±⃰1)
 
 
