@@ -15,8 +15,8 @@ As before, feel free to contact me for hints or feedback - always happy to hear 
 ## The puzzles:
 
 [**Part 2: Oops! All Acros–**](notbluebeard/2-oops_all_acro.pdf)
-(and [printer-friendly version])
-(notbluebeard/2-oops_all_acro-printerfriendly.pdf)
+(and [printer-friendly version]
+(notbluebeard/2-oops_all_acro-printerfriendly.pdf))
 
 [**Part 3: In Any Case...**](notbluebeard/3-in_any_case.pdf)
 
