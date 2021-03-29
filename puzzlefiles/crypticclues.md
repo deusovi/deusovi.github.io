@@ -6,11 +6,11 @@ Detour that is surrounded by an arrangement of trees (4, 6)
 
 My bad back almost repelled a partner in bed (7)
 
+Invention of "Y̊"? (9)
+
 UK? (4)
 
 Opening line: "Steer experience direct chief's metal spearhead tip" (4)
-
-Invention of "Y̊"? (9)
 
 High-strung type of note! (1)
 
