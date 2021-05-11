@@ -1,5 +1,9 @@
 # Word Puzzles
 
+## Non-Cryptic Things
+
+[A Completely Ordinary Crossword](puzzlefiles/ss2020.pdf) (25 Dec 2020) is a completely ordinary crossword. Written for a puzzle exchange; has been slightly edited to remove inside references. [Clues](puzzlefiles/ss2020_clues.txt) and [grid](puzzlefiles/ss2020_grid.txt) are both available in text form.
+
 ## Cryptic Clues
 
 Some of my favorite cryptic clues (that weren't written for a particular puzzle) are [here](puzzlefiles/crypticclues.md).
@@ -7,7 +11,7 @@ Some of my favorite cryptic clues (that weren't written for a particular puzzle)
 
 ## Variety Cryptics
 
-I've made several cryptic crosswords in the past, inspired largely by the work of [Ucaoimhu](http://www.math.uchicago.edu/~wald/). These cryptics are generally not very easy - feel free to contact me for hints or feedback!
+I've made several cryptic crosswords, inspired largely by the work of [Ucaoimhu](http://www.math.uchicago.edu/~wald/). These cryptics are generally not very easy - feel free to contact me for hints or feedback!
 
 A few of these puzzles have some inside references in them; a ★ has an explanation of the references (with spoilers!)
 
