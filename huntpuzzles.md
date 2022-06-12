@@ -18,6 +18,11 @@ I've written various hunt-style puzzles, both for personal projects and for larg
  - [Compounded](puzzlefiles/sph/sph3_2-24_Compounded.pdf)
  - [Chorded](puzzlefiles/sph/sph3_2-26_Chorded.pdf)
 
+**Silph Puzzle Hunt**: A spiritual successor to Smogon Puzzle Hunt. I did a lot of "background work" on puzzles here, but my main contributions were:
+ - [Composition](https://silphpuzzlehunt.com/puzzle/composition)
+ - [Re-actions](https://silphpuzzlehunt.com/puzzle/re-actions)
+
+
 **[DP Hunt](https://dp.puzzlehunt.net/index.html)**: A hunt targeted at new solvers.
 
  - [Fork In The Road](https://dp.puzzlehunt.net/puzzle/a-fork-in-the-road.html)

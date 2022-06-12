@@ -8,6 +8,8 @@ I enjoy Nikoli-style logic puzzles -- visual logic puzzles meant to be solved by
 
 [**Heyacrazy**](puzzlefiles/heyacrazy.md): What if Heyawake used non-orthogonal lines?
 
+[**Planetary Shading Suite**](puzzlefiles/planetary.md): A set of four puzzles made as a gift for [jovi_al](https://twitter.com/jovi_al01).
+
 ## One-Offs
 
 [**Kurotto (Octagonal)**](puzzlefiles/kurotto.md)
