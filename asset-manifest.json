@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deusovi.github.io/white-day/static/css/main.f8463767.css",
+    "main.js": "/deusovi.github.io/white-day/static/js/main.ad04cf12.js",
+    "static/js/592.a24685d8.chunk.js": "/deusovi.github.io/white-day/static/js/592.a24685d8.chunk.js",
+    "index.html": "/deusovi.github.io/white-day/index.html",
+    "main.f8463767.css.map": "/deusovi.github.io/white-day/static/css/main.f8463767.css.map",
+    "main.ad04cf12.js.map": "/deusovi.github.io/white-day/static/js/main.ad04cf12.js.map",
+    "592.a24685d8.chunk.js.map": "/deusovi.github.io/white-day/static/js/592.a24685d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8463767.css",
+    "static/js/main.ad04cf12.js"
+  ]
+}

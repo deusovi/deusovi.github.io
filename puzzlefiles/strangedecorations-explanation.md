@@ -1,1 +1,0 @@
-This puzzle was written for ManyPinkHats, a good friend (and frequent solving partner) of mine.
