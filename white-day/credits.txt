@@ -1,0 +1,9 @@
+flags from Kreative Vexillo
+
+
+7-segment font by torinak: https://torinak.com/font/7-segment
+
+many icons from the Noun Project:
+
+"yes", by Alzam https://thenounproject.com/icon/yes-6198875/
+"Cold", by Becca O'Shea https://thenounproject.com/icon/cold-1134371/
