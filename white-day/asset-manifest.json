@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/white-day/static/css/main.a51287a2.css",
+    "main.js": "/white-day/static/js/main.ac450869.js",
+    "static/js/453.17bb4696.chunk.js": "/white-day/static/js/453.17bb4696.chunk.js",
+    "index.html": "/white-day/index.html",
+    "main.a51287a2.css.map": "/white-day/static/css/main.a51287a2.css.map",
+    "main.ac450869.js.map": "/white-day/static/js/main.ac450869.js.map",
+    "453.17bb4696.chunk.js.map": "/white-day/static/js/453.17bb4696.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a51287a2.css",
+    "static/js/main.ac450869.js"
+  ]
+}
