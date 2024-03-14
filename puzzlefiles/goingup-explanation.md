@@ -1,1 +1,0 @@
-The friend in question is [@levelfiftyone](https://twitter.com/levelfiftyone); this was a surprise puzzle written for his birthday. (Amusingly, due to a "miscommunication", he didn't actually realize what it was until several months later.)
